@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "devbridge-styleguide": "^0.4.17",
+    "gulp": "^3.9.1",
+    "gulp-sass-glob": "^1.0.8"
+  }
+}

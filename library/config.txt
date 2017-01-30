@@ -1,0 +1,22 @@
+{
+  "projectName": "Shindigger Admin",
+  "projectUrl": "",
+  "projectLogo": "http://static1.squarespace.com/static/57ab9a426a49632970f90510/t/57ac9ba6197aea9808a460a7/1483900999958/",
+  "jsResources": [],
+  "viewportWidths": [
+    320,
+    480,
+    768,
+    1024,
+    1200
+  ],
+  "serverPort": 8889,
+  "snippetTemplate": "library/template.html",
+  "cssVariables": [],
+  "maxSassIterations": 2000,
+  "database": "library/db",
+  "categories": "library/db/categories.json",
+  "uniques": "library/db/uniques.json",
+  "sassData": "library/db/sassdata.json",
+  "extension": ".json"
+}

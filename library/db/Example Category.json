@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Test Snippet",
+    "code": "<div>\n    Hello World!!\n</div>",
+    "description": "This is an example div",
+    "inlineCss": "#snippet { \n  \n}",
+    "includeJs": "false",
+    "isEdited": false,
+    "isDeleted": false
+  }
+]
